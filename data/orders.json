@@ -1,0 +1,66 @@
+[
+    {
+        "id": "6abbf9e876e42",
+        "name": "Noura Alyassein",
+        "email": "nouryassen2017@gmail.com",
+        "phone": "0936050778",
+        "address": "Damascus - Mazzeh",
+        "items": [
+            {
+                "id": 3,
+                "name": "MacBook",
+                "price": "2000",
+                "quantity": 5,
+                "subtotal": 10000
+            },
+            {
+                "id": 2,
+                "name": "iPhone 17 Pro Max",
+                "price": "1500",
+                "quantity": 1,
+                "subtotal": 1500
+            },
+            {
+                "id": 1,
+                "name": "Adidas Shoes",
+                "price": "500",
+                "quantity": 1,
+                "subtotal": 500
+            }
+        ],
+        "total": 12000,
+        "date": "2026-09-29 19:48:24"
+    },
+    {
+        "id": "6abbfa5905da9",
+        "name": "Noura Alyassein",
+        "email": "nouryassen2017@gmail.com",
+        "phone": "08978866878",
+        "address": "Damascus - Malki",
+        "items": [
+            {
+                "id": 6,
+                "name": "Polaroid Camera",
+                "price": "1700",
+                "quantity": 1,
+                "subtotal": 1700
+            },
+            {
+                "id": 7,
+                "name": "Girls Bicycle",
+                "price": "1400",
+                "quantity": 1,
+                "subtotal": 1400
+            },
+            {
+                "id": 8,
+                "name": "Prada Sunglasses",
+                "price": "300",
+                "quantity": 1,
+                "subtotal": 300
+            }
+        ],
+        "total": 3400,
+        "date": "2026-09-29 19:50:17"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Adidas Shoes",
+        "price": "500",
+        "qty": "100",
+        "image": "product_6abbf286ea97d.webp"
+    },
+    {
+        "id": 2,
+        "name": "iPhone 17 Pro Max",
+        "price": "1500",
+        "qty": "100",
+        "image": "product_6abbf2e38fb37.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "MacBook",
+        "price": "2000",
+        "qty": "100",
+        "image": "product_6abbf33a2158e.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Hermes Bag",
+        "price": "3500",
+        "qty": "100",
+        "image": "product_6abbf3ca221bd.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Canon Camera",
+        "price": "2000",
+        "qty": "100",
+        "image": "product_6abbf7e15740e.png"
+    },
+    {
+        "id": 6,
+        "name": "Polaroid Camera",
+        "price": "1700",
+        "qty": "100",
+        "image": "product_6abbf85929ca9.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Girls Bicycle",
+        "price": "1400",
+        "qty": "30",
+        "image": "product_6abbf8d573022.avif"
+    },
+    {
+        "id": 8,
+        "name": "Prada Sunglasses",
+        "price": "300",
+        "qty": "50",
+        "image": "product_6abbf96dc647f.jpeg"
+    }
+]
